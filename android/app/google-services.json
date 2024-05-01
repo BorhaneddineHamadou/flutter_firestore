@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019577713989",
+    "project_id": "fluttertutorial-2aff4",
+    "storage_bucket": "fluttertutorial-2aff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019577713989:android:2ffddd07767da34f71aa2c",
+        "android_client_info": {
+          "package_name": "com.borhaneddine.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrK2edNE3May3cTeYaoZJSJEZLx9nqOSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
